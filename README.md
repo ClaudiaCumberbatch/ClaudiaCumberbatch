@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zhousc2021@mail.sustech.edu.cn or zhousc@uchicago.edu
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaCumberbatch&layout=donut&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ClaudiaCumberbatch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaCumberbatch&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
