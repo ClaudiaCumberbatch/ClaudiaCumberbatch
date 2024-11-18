@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-- 🔭 I’m currently working on High Performance Computing in HPC Lab, SUSTech.
-- 🌱 I’m currently learning Compiler, Machine Learning, Object-Oriented Analysis and Design, Computer Network.
-- 🤝 Group Project： Automatically Optimize Benchmarks on Supercomputers
 -->
-- 🔭 I’m currently working on Resilience Compute in Globus Lab, University of Chicago.
-- 📫 How to reach me: zhousc2021@mail.sustech.edu.cn or zhousc@uchicago.edu
+
+- 🔭 I’m currently working on Distributed Computing in HPC Lab, SUSTech.
+- 🌱 I’m currently learning Computer Security and Deep Learning.
+- 🤝 Group Project: Streaming Graph Pattern Mining on GPU.
+- 🤞 I’m currently applying for PhD programs in Computer Science (2025 Fall)!
+- 📫 How to reach me: zhousc2021@mail.sustech.edu.cn.
 
 
 [![ClaudiaCumberbatch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaCumberbatch&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
